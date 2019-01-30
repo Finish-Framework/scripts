@@ -1,11 +1,11 @@
 {
   "name": "@finish/scripts",
   "version": "0.0.1",
-  "description": "UI Framework making use of Vue.js and Tailwindcss",
+  "description": "Scripts and Vue.js components for the Finish framework",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Finish-Framework/framework"
+    "url": "git+https://github.com/Finish-Framework/scripts"
   },
   "files": [],
   "scripts": {
@@ -34,7 +34,7 @@
   "author": "James Johnson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Finish-Framework/framework/issues"
+    "url": "https://github.com/Finish-Framework/scripts/issues"
   },
-  "homepage": "https://github.com/Finish-Framework/framework/blob/master/README.md"
+  "homepage": "https://github.com/Finish-Framework/scripts/blob/master/README.md"
 }
